@@ -50,6 +50,7 @@ newman run "Collection/reqres.in_tests.postman_collection.json" -r cli,html,html
 - **Issue: Report Generation Fails**: Ensure the `Report` directory exists or create it before running the Newman command.
 
 ## Newman HTML Extra Report Screenshots
+![Report](Jenkins/report.png)
 
 
 
